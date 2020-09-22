@@ -1,0 +1,2 @@
+caseId,caseDescription,casedata,result
+ADDCUSTOM_001,添加客户成功,"{""custname"":""李丽丽"",""identity"":135,""address"":""西安市高新区"",""career"":""工人"",""phone"":19081320987,""sex"":0}","{""code"":0,""msg"":""添加成功""}"
